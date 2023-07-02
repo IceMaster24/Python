@@ -1,4 +1,4 @@
-# Python YouTube downloader
+# Python YouTube downloader 
 
 
 
@@ -15,7 +15,7 @@ c:\users\your_user\appdata\local\programs\python\python310\lib\site-packages
 
 the modules `os` and `sys` are already present on python so you don't have to install them.
 
-## 
+##
 
 
 hope it can be useful to see the operation of the pytube library so:
